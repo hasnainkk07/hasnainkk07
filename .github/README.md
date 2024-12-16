@@ -35,8 +35,6 @@
 
 **Currently, all my repositories are private. Thank you for your interest!**
 
-## Featured Project
-
 ### [Raiden Robot](https://t.me/Raiden_Robot)
 
 Raiden Robot is an advanced Telegram bot designed for group management and voice chat (VC) functionalities, including music playback. It offers robust tools for managing groups and enhancing communication within your Telegram channels.
